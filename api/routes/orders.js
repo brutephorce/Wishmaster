@@ -37,7 +37,6 @@ router.get('/',(req,res,next) => {
     });
 });
 
-13:57 se shuru krna h
 
 
 router.post('/',(req,res,next) => {
